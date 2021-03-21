@@ -1,3 +1,4 @@
+<?php?>
 <div id="admin">
 <div id="navigacija">
     <ul>
