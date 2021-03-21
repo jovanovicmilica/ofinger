@@ -1,3 +1,4 @@
+<?php?>
 <footer>
     <h1>Ofinger</h1>
     <ul>
