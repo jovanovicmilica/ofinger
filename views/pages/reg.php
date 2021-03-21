@@ -1,3 +1,4 @@
+<?php?>
 <div id="logreg">
 
     <div class="reg">
