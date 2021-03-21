@@ -1,3 +1,4 @@
+<?php?>
 <div id="autor">
 <p>Jovanović Milica 88/18</p>
 <a href="models/autor.php">Preuzmi podatke</a>
