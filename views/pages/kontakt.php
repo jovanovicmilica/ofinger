@@ -1,4 +1,4 @@
-
+<?php?>
 <h1>Kontakt</h1>
 <div class="tekst informacije">
     <div class="info">
